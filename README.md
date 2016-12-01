@@ -8,6 +8,8 @@
 
 A log module writed by C++
 
+Copy from <https://github.com/ideawu/ssdb/tree/master/src/util>
+
 
 # Flag
 
